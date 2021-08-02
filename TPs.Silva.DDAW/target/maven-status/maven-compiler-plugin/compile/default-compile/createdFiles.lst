@@ -1,0 +1,16 @@
+ar\org\centro8\curso\java\web\services\ClienteAlta.class
+ar\org\centro8\curso\java\web\utils\TableHtml.class
+ar\org\centro8\curso\java\web\entidades\Cliente.class
+ar\org\centro8\curso\java\web\repositories\interfaces\I_ClienteRepository.class
+ar\org\centro8\curso\java\web\repositories\jdbc\ClienteRepository.class
+ar\org\centro8\curso\java\web\services\ClienteLikeApellido.class
+ar\org\centro8\curso\java\web\services\ClienteBaja.class
+ar\org\centro8\curso\java\web\test\TestConnector.class
+ar\org\centro8\curso\java\web\repositories\list\ClienteRepository.class
+ar\org\centro8\curso\java\web\enums\TipoDocumento.class
+ar\org\centro8\curso\java\web\services\JaxRSConfig.class
+ar\org\centro8\curso\java\web\services\ClienteAll.class
+ar\org\centro8\curso\java\web\test\TestClienteRepository.class
+ar\org\centro8\curso\java\web\repositories\list\ClienteRepositoryF.class
+ar\org\centro8\curso\java\web\connectors\Connector.class
+ar\org\centro8\curso\java\web\services\ClienteService.class
